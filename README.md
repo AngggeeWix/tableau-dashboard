@@ -1,2 +1,25 @@
-# tableau-dashboard
-Tableau dashboard created for medicine analysis. It offers a comprehensive exploration of various facets of medicine, aiding users in gaining valuable insights from the data. 
+# Medicine Analysis Dashboard
+
+This repository contains a Tableau dashboard for analyzing medicine data. The dashboard provides insights into various aspects of medicine, including composition, manufacturers, common uses, side effects, and manufacturer ratings. Users can explore the data through filters and interactive visualizations.
+
+![meds1](https://github.com/AngggeeWix/org-website/assets/159560080/dd84ca8f-8556-480e-8067-71e83780b026)
+
+**Features**
+- Composition Analysis: View the count of medicines with the same composition.
+- Manufacturer Analysis: Analyze the count of medicines produced by the same manufacturer.
+- Top 10 Most Common Uses: Discover the top 10 most common uses of medicines.
+- Side Effects Analysis: Explore the most prevalent side effects of medicines.
+- Top 10 Manufacturers by Rating: See the top 10 manufacturers ranked by rating.
+- Average and Excellent Ratings: Understand the average and excellent ratings of manufacturers.
+- Filter and Data Dashboard: Utilize filters to refine search criteria and explore data interactively.
+
+**Data Source**
+
+The data used in this dashboard is sourced from https://www.kaggle.com/datasets/singhnavjot2062001/11000-medicine-details.
+
+**Tableau Background**
+
+Created using Powerpoint
+
+Link:
+https://public.tableau.com/views/medicine_17110311239750/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
