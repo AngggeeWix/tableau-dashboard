@@ -2,7 +2,7 @@
 
 This repository contains a Tableau dashboard for analyzing medicine data. The dashboard provides insights into various aspects of medicine, including composition, manufacturers, common uses, side effects, and manufacturer ratings. Users can explore the data through filters and interactive visualizations.
 
-![meds1](https://github.com/AngggeeWix/org-website/assets/159560080/dd84ca8f-8556-480e-8067-71e83780b026)
+![Screenshot 2024-03-23 015906](https://github.com/AngggeeWix/org-website/assets/159560080/14c32516-c036-4f0e-a841-335069dd9b12)
 
 **Features**
 - Composition Analysis: View the count of medicines with the same composition.
